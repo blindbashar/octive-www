@@ -25,11 +25,11 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
+	color: #B1B1B1;
 }
 
 body.light {
 	background-image: url('https://iaminteractive.net/web-resources/background-01.webp');
-	color: #939393;
 	text-shadow: 2px 2px 5px #000, 0 0 5px #232323, -1px -1px 3px #C1C1C1;
 }
 
