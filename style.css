@@ -44,18 +44,30 @@ h1 {
 	font-size: 69px;
 	margin-top: 16.9%;
 	color: #C1C1C1;
+	width:69vw;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 h2 {
 	font-size: 44px; 
+	width:69vw;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 h3 {
 	font-size: 44px;
+	width:69vw;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 h4 {
 	font-size: 36px;
+	width:69vw;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 a:link {
