@@ -1,0 +1,68 @@
+@font-face {
+	font-family: 'Comic Neue Bold';
+	src: url('https://iaminteractive.net/web-resources/font/ComicNeue-Bold.ttf');
+}
+
+* {
+	font-family: 'Comic Neue Bold', sans-serif;
+}
+
+body {
+	text-align: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+body.light {
+	background-image: url('https://iaminteractive.net/web-resources/background-01.webp');
+	color: #939393;
+	text-shadow: 2px 2px 5px #000, 0 0 5px #232323, -1px -1px 3px #C1C1C1;
+}
+
+body.dark {
+	background-image: url('https://iaminteractive.net/web-resources/background-02.webp');
+	color: #9B9B9B;
+	text-shadow: 2px 2px 3px #000, 0 0 5px #232323, -1px -1px 3px #FFF;
+}
+
+
+h1 {
+	font-size: 69px;
+	margin-top: 16.9%;
+	color: #C1C1C1;
+}
+
+h2 {
+	font-size: 44px; 
+}
+
+h3 {
+	font-size: 44px;
+}
+
+h4 {
+	font-size: 36px;
+}
+
+a:link {
+	color: #DFDFDF;
+}
+
+a:hover {
+	color: #C1C1C1;
+}
+
+a:visited {
+	color: #232323;
+}
+
+.separator {
+	line-height: 3;
+}
+
+.activity {
+	width:555px;
+	height:333px;
+	border-width:0;
+}
