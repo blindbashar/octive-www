@@ -1,12 +1,23 @@
-/* © 2025 Octive LLC */
+/* © 2025 Octive Interactive LLC */
 
+/*
 @font-face {
 	font-family: 'Comic Neue Bold';
 	src: url('https://iaminteractive.net/web-resources/font/ComicNeue-Bold.ttf');
 }
+*/
+
+@font-face {
+		font-family: "Roboto Mono";
+		src: url('https://iaminteractive.net/web-resources/fonts/RobotoMono/font.ttf')
+}
 
 * {
-	font-family: 'Comic Neue Bold', sans-serif;
+	/* font-family: 'Comic Neue Bold', sans-serif; */
+		font-family: "Roboto Mono", monospace;
+		font-optical-sizing: auto;
+		font-weight: <weight>;
+		font-style: normal;
 }
 
 body {
